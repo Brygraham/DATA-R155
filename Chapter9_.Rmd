@@ -1,0 +1,14 @@
+---
+title: "Chapter 9 Practice: Data Dictionary"
+author: "Bryanna Graham"
+date: "`r Sys.Date()`"
+output: html_notebook
+---
+
+# Chapter 9: Data Dictionary
+
+## Purpose
+#A data dictionary tracks what variables in a dataset means so researchers can use the data.
+
+list.files()
+
